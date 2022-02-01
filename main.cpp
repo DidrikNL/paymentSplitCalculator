@@ -8,7 +8,7 @@ using namespace std;
 int main () {
     vector<Person> persons;
     
-    cout << "Money difference calculator\nVersion 1.0\nCopyright Didrik NL 2022" << endl;
+    cout << "Payment split calculator\nVersion 1.0\nCopyright Didrik NL 2022" << endl;
     string input = "";
 
     while (input != "N") {
