@@ -15,12 +15,6 @@ public:
     double maxVal;
     double payVal;
 
-    /*string name() {
-        return name;
-    }
-    double maxVal () {
-        return maxVal;
-    }*/
     void setPayVal(double val) {
         payVal = val;
     }
